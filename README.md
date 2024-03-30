@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Agarwal</h1>
-<h3 align="center">A passionate engineering graduate from India</h3>
+<h3 align="center">An ambitious engineering graduate with a drive for results, showcasing strong work ethics and creative problem-solving skills, eager to start an entry-level position to apply and refine the knowledge and skills acquired throughout my academic journey.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
